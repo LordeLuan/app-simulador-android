@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
-        binding.tvHello.setText("testando class java");
+//        binding.tvHello.setText("testando class java");
+
     }
 }
